@@ -1,0 +1,10 @@
+footer{
+	padding: 5px;
+}
+
+h1{
+	text-align: center;
+}
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: #fff;
+}
